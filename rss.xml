@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HarmTip]]></title>
         <description><![CDATA[HarmTip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harmtip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 20:22:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 20:20:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harmtip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>#long exposure #reflection #fireworks</p>]]></description>
+            <link>https://thegrid.ai/harmtip/43f83248-efec-4481-a6d3-db4bcf93b033/index.html</link>
+            <guid isPermaLink="false">43f83248-efec-4481-a6d3-db4bcf93b033</guid>
+            <pubDate>Sun, 24 Jan 2016 20:20:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dit is een test</p>]]></description>
-            <link>undefined1c2b7479-e0e6-43d5-b5b2-20c2f0b4a4c8/index.html</link>
+            <link>https://thegrid.ai/harmtip/1c2b7479-e0e6-43d5-b5b2-20c2f0b4a4c8/index.html</link>
             <guid isPermaLink="false">1c2b7479-e0e6-43d5-b5b2-20c2f0b4a4c8</guid>
             <pubDate>Tue, 12 Jan 2016 20:21:54 GMT</pubDate>
         </item>
